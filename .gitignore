@@ -1,2 +1,4 @@
 .env
 backend/*.tar.gz
+backend/*.dump
+backend/*.zip
